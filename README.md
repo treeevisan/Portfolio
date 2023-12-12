@@ -1,5 +1,5 @@
 # Bem-vindo(a) ao meu Portfólio de Análise e Ciência de Dados!
-[![author](https://img.shields.io/badge/Author-Renan%20Trevisan-brightgreen)](https://www.linkedin.com/in/renantrevisan/) ![version](https://img.shields.io/badge/enthusiast-alpha_version-%23F12525)
+[![author](https://img.shields.io/badge/Author-Renan%20Trevisan-brightgreen)](https://www.linkedin.com/in/renantrevisan/) ![version](https://img.shields.io/badge/enthusiast-alpha_version%200.11-%23F12525)
 
 
 <p align="center">
