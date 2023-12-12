@@ -28,8 +28,8 @@
  - [Acesse o projeto completo](https://www.kaggle.com/code/renantrevisan/br-hway-accidents)
 
 <p align="center">
-  <img alt="Scatter" width="45%" src="https://github.com/treeevisan/Portfolio/assets/152438468/834c082f-2f51-42fe-8f1c-8bf28388ac2b">
-  <img alt="Percent diff" width="45%" src="https://github.com/treeevisan/Portfolio/assets/152438468/589ebd51-062e-40d4-b129-1bc9d9379be4">
+  <img alt="Scatter" width="45%" src="https://github.com/treeevisan/Portfolio/assets/152438468/f7772adf-516c-45f3-add5-454d9bd5be87">
+  <img alt="Percent diff" width="45%" src="https://github.com/treeevisan/Portfolio/assets/152438468/f54b0e35-4fb8-4921-9b92-81c146383bea">
 </p>
 
 ## **SQL** - Em Breve
