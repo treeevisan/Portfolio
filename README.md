@@ -36,7 +36,7 @@
 
 ## **ARTIGOS** - Em Breve
 
-## **SOBRE** - Em Breve
+## **SOBRE**
 
 Seja bem-vindo! Me chamo Renan.
 
