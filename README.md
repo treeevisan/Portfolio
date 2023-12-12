@@ -17,3 +17,17 @@
 <p align="center">
   <img alt="BA" width="65%" src="https://github.com/treeevisan/Portfolio/assets/152438468/bb97d482-12f4-44de-8d7a-e882a2fa7d02">
 </p>
+
+### [**Formula 1 World Championship**] - Em Breve
+
+## **Python**
+
+### [**Brazil Highway Traffic Accidents**](https://www.kaggle.com/code/renantrevisan/br-hway-accidents)
+ - **ETL e data visualization**, onde foi feito o tratamento dos dados para a apresentação das informações em gráficos.
+ - Nos gráficos abaixo foi feito o estudo da média de acidentes no ano versus a média de acidentes no feriado do carnaval.
+ - Acesse o projeto completo (https://www.kaggle.com/code/renantrevisan/br-hway-accidents)
+
+<p align="center">
+  <img alt="Scatter" width="45%" src="">
+  <img alt="Percent diff" width="45%" src="">
+</p>
