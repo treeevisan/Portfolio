@@ -15,5 +15,5 @@
  - Os dados foram disponibilizados pela Hashtag e são dados ficticios
  - [Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2RiODU2YjctMzFkOS00NjFhLWEwYTUtZDlhOTFlYWM0OWM0IiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9&pageName=ReportSection702c56a82276586d648b)
 <p align="center">
-  <img alt="BA" width="65%" src="https://github.com/HenriqueWF/PBI_BA/assets/86746927/30ffef7d-91a8-4599-ab0e-e861655d73e6">
+  <img alt="BA" width="65%" src="https://github.com/treeevisan/Portfolio/assets/152438468/bb97d482-12f4-44de-8d7a-e882a2fa7d02">
 </p>
