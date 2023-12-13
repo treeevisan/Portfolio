@@ -42,7 +42,7 @@ Seja bem-vindo! Me chamo Renan.
 
 Sou formado em Engenharia de Bioprocessos e Biotecnologia pela UFPR. Ao longo da graduação realizei diversas atividades que me proporcionaram desenvolver habilidades analíticas.
 
-Minha trajetória profissional começou na gigante do automobilismo francês, Renault, onde pude aplicar meu aprendizado de engenharia e as habilidades desenvolvidas na graduação. Na sequência, trabalhei no banco Santander onde tive a oportunidade de conectar minha facilidade com dados e impactar a vida de minlhares de pessoas. 
+Minha trajetória profissional começou na gigante do automobilismo francês, Renault, onde pude aplicar meu aprendizado de engenharia e as habilidades desenvolvidas na graduação. Na sequência, trabalhei no banco Santander onde tive a oportunidade de conectar minha facilidade com dados e impactar a vida de milhares de pessoas. 
 
 Desde a graduação tenho aplicado meus conhecimentos em Excel e Power BI. Além disso, tenho me envolvido cada vez mais em projetos relacionaos a análise de dados de data viz. Nesse meio possuo um conhecimento básico em SQL, domino e pratico principalmente a linguagem Python, com projetos usando bibliotecas como Pandas, Numpy, Seaborn, Matplotlib e Plotly. Por fim, sigo aplicando e evoluindo meu conhecimento nas técnicas de data viz, principalmente com a ferramenta Power BI. 
 
