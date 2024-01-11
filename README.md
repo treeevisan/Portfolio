@@ -18,7 +18,14 @@
   <img alt="BA" width="65%" src="https://github.com/treeevisan/Portfolio/assets/152438468/bb97d482-12f4-44de-8d7a-e882a2fa7d02">
 </p>
 
-### [**Formula 1 World Championship**] - Em Breve
+### **Formula 1 World Championship**
+- **Quem é o melhor Piloto de Formula 1 de todos os tempos?** Cada um tem o seu preferido, mas com esse estudo você pode avaliar as metricas dos seus pilotos favoritos e adquirir mais conhecimento sobre eles.
+- É possível avaliar o desempenho de países, pilotos e construtores em diferentes épocas e compará-los entre si.
+- Para esse projeto foi feita uma EDA (análise exploratória dos dados) com Python para entender o que cada tabela representa e como estão apresentados nas tabelas. Além disso, foi feito o tratamento dos dados e os arquivos .xlsx foram gerados.
+- [Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzg2MThmNGEtY2FkZS00MmQ3LTliOTUtODA0ZDAxNzVlNmYzIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
+<p align="center">
+  <img alt="F1 WC Home" width="65%" src="https://github.com/treeevisan/Portfolio/assets/152438468/df6c3c6e-14ff-4794-8b42-c044e3690617">
+</p>
 
 ## **Python**
 
