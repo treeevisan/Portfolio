@@ -39,6 +39,16 @@
   <img alt="Percent diff" width="45%" src="https://github.com/treeevisan/Portfolio/assets/152438468/f54b0e35-4fb8-4921-9b92-81c146383bea">
 </p>
 
+
+### **ETL Formula 1 Dataset**
+ETL, do ingles, "Extração, Transformação e Carregamento" é uma parte fundamental para qualquer ação no mundo dos dados. A inspiração para esse projeto se deu quando notei que diversos notebooks que utilizaram esse dataset fizeram uma leitura manual dos dados. 
+- Nesse notebook fiz a leitura e armazenamento dos dados em 1 bloco de código, criei exercicios e um desafio para encorajar os iniciantes em programação a explorarem o dataset. Além disso, eles podem compreender a lógica aplicada para ler e armazenar os dados e utilizarem em outros projetos.
+
+<p align="center">
+  <img alt="Code" width="45%" src="https://github.com/treeevisan/Portfolio/assets/152438468/60f3aa35-683a-459c-abce-79d8330a3a06">
+  
+</p>
+
 ## **SQL** - Em Breve
 
 ## **ARTIGOS** - Em Breve
