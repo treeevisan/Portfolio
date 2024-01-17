@@ -6,6 +6,11 @@
   <img src="https://github.com/treeevisan/Portfolio/assets/152438468/af11c1aa-af7b-42be-b20e-616a8a2c5cfb" width=50%>
 </p>
 
+<p align="center">
+  <a href ="mailto:renan_treviz09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/renantrevisan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+
 ## **PROJETOS**
 
 ## **Power BI**
@@ -49,9 +54,11 @@ ETL, do ingles, "Extração, Transformação e Carregamento" é uma parte fundam
   
 </p>
 
+<!--
 ## **SQL** - Em Breve
 
 ## **ARTIGOS** - Em Breve
+-->
 
 ## **SOBRE**
 
