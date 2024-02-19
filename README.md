@@ -40,25 +40,57 @@
  - [Acesse o projeto completo](https://www.kaggle.com/code/renantrevisan/br-hway-accidents)
 
 <p align="center">
-  <img alt="Scatter" width="45%" src="https://github.com/treeevisan/Portfolio/assets/152438468/f7772adf-516c-45f3-add5-454d9bd5be87">
-  <img alt="Percent diff" width="45%" src="https://github.com/treeevisan/Portfolio/assets/152438468/f54b0e35-4fb8-4921-9b92-81c146383bea">
+  <img alt="Scatter" width="47%" src="https://github.com/treeevisan/Portfolio/assets/152438468/f7772adf-516c-45f3-add5-454d9bd5be87">
+  <img alt="Percent diff" width="47%" src="https://github.com/treeevisan/Portfolio/assets/152438468/f54b0e35-4fb8-4921-9b92-81c146383bea">
 </p>
 
 
 ### **ETL Formula 1 Dataset**
 ETL, do ingles, "Extração, Transformação e Carregamento" é uma parte fundamental para qualquer ação no mundo dos dados. A inspiração para esse projeto se deu quando notei que diversos notebooks que utilizaram esse dataset fizeram uma leitura manual dos dados. 
-- Nesse notebook fiz a leitura e armazenamento dos dados em 1 bloco de código, criei exercicios e um desafio para encorajar os iniciantes em programação a explorarem o dataset. Além disso, eles podem compreender a lógica aplicada para ler e armazenar os dados e utilizarem em outros projetos.
+- Nesse notebook fiz a leitura e armazenamento dos dados em 1 bloco de código, nos outros são feitos os processos de tratamento dos dados. Como adendo, criei exercicios e um desafio para encorajar os iniciantes em programação a explorarem o dataset. Eles podem compreender a lógica aplicada para ler e armazenar os dados e utilizarem em outros projetos.
 
 <p align="center">
-  <img alt="Code" width="45%" src="https://github.com/treeevisan/Portfolio/assets/152438468/60f3aa35-683a-459c-abce-79d8330a3a06">
+  <img alt="Code" width="70%" src="https://github.com/treeevisan/Portfolio/assets/152438468/60f3aa35-683a-459c-abce-79d8330a3a06">
   
 </p>
 
-<!--
-## **SQL** - Em Breve
 
+## **SQL** - Window functions para análises rápidas em SQL
+Muitas vezes precisamos ter insights rápidos do negócio enquanto estamos fazendo uma análise. A linguagem SQL, além de permitir a criação de Bancos de Dados e a sua gestão, também permite gerar esses insights. Em poucos minutos é possível gerar o material necessário para aquela reuinião urgente. A ideia é apresentar o uso de funções importantes como: SUM, GROUPBY, WHERE, JOIN e OVER em situações cotidianas, onde é possivel explorar o banco de dados de forma prática.
+
+- Nesse case, temos um banco de dados de uma varejista com lojas, região de atuação etc e também temos uma tabela fato para todas as vendas, com informações de marca, produto, receita e diversos dados.
+
+A questão é: **Como usar esses dados e gerar informações sobre o negócio em poucas linhas de código?**
+
+- Descobrir quanto cada loja representa das vendas e rankear
+Aqui é usada a famosa window function para conseguir fazer a divisão da quantidade vendida de cada loja, pela quantidade total *SUM('Qtd_Vendida')*, como não precisamos de dados de nenhuma outra tabela, o código dessa query é bem direto ao ponto.
+
+<p align="center">
+  <img alt="Code" width="60%" src="https://github.com/treeevisan/Portfolio/assets/152438468/62365c14-bc94-41ec-97cb-d52253c033f4">
+  
+</p>
+
+Se fosse necessário utilizar essa informação em um dashboard, bastaria criar uma view para termos informação pronta para ser importada em um relatório do Power BI ou Tableau.
+
+- Descobrir dentro de uma marca de produto o faturamento
+Agora a situação é um pouco mais complicada, pois os dados estão em tabelas diferentes. Vamos utilizar o conceito de banco de dados relacional aqui para conectar tabelas fato e dimensão para criar a query.
+
+
+<p align="center">
+  <img alt="Code" width="80%" src="https://github.com/treeevisan/Portfolio/assets/152438468/940da59c-8d1f-45f0-a94e-5b6dbce8a89c">
+  
+</p>
+
+Com essa query podemos explorar a receita dos produtos de qualquer marca e identificar se existe um produto que é o carro chefe. 
+Asism é possivel construir uma estratégia de preço com essas informações associadas a informações de quantidade vendida e estoque, aumentando a margem para itens que vendem bem e ajustando para itens que podem estar encalhados no estoque e precisam ser vendidos.
+
+
+
+<!--
 ## **ARTIGOS** - Em Breve
 -->
+
+
 
 ## **SOBRE**
 
