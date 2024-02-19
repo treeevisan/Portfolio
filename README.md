@@ -68,7 +68,7 @@ Sou formado em Engenharia de Bioprocessos e Biotecnologia pela UFPR. Ao longo da
 
 Minha trajetória profissional começou na gigante do automobilismo francês, Renault, onde pude aplicar meu aprendizado de engenharia e as habilidades desenvolvidas na graduação. Na sequência, trabalhei no banco Santander onde tive a oportunidade de conectar minha facilidade com dados e impactar a vida de milhares de pessoas. Ao longo dessa trajetória pratiquei constantemente o inglês e tive bastante contato com espanhol e francês.
 
-Desde a graduação tenho aplicado meus conhecimentos em Excel e Power BI. Além disso, tenho me envolvido cada vez mais em projetos relacionados a análise de dados. Nesse ambiente possuo um conhecimento básico em SQL, domino e pratico principalmente a linguagem Python, com projetos usando bibliotecas como Pandas, Numpy, Seaborn, Matplotlib e Plotly. 
+Desde a graduação tenho aplicado meus conhecimentos em Excel e Power BI. Além disso, tenho construido projetos relacionados a análise de dados, web scraping. Nesse ambiente dos dados também possuo conhecimento em SQL, domino e pratico principalmente a linguagem Python, com projetos usando bibliotecas como Pandas, Numpy, Seaborn, Matplotlib e Plotly. 
 
 ## **CONTATO**
 - [Linkedin](https://www.linkedin.com/in/renantrevisan/)
