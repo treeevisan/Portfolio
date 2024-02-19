@@ -70,6 +70,8 @@ Minha trajetória profissional começou na gigante do automobilismo francês, Re
 
 Desde a graduação tenho aplicado meus conhecimentos em Excel e Power BI. Além disso, tenho construido projetos relacionados a análise de dados, web scraping. Nesse ambiente dos dados também possuo conhecimento em SQL, domino e pratico principalmente a linguagem Python, com projetos usando bibliotecas como Pandas, Numpy, Seaborn, Matplotlib e Plotly. 
 
+Hoje estudo para estar em um ambiente data driven e expandir meus horizontes dentro desse universo. Quero aproveitar o conhecimento das pessoas mais experientes e levar novso insights.
+
 ## **CONTATO**
 - [Linkedin](https://www.linkedin.com/in/renantrevisan/)
 - [Kaggle](https://www.kaggle.com/renantrevisan)
