@@ -55,12 +55,12 @@ ETL, do ingles, "Extração, Transformação e Carregamento" é uma parte fundam
 </p>
 
 
-## **SQL** - Window functions para análises rápidas em SQL
+## **SQL**
 Muitas vezes precisamos ter insights rápidos do negócio enquanto estamos fazendo uma análise. A linguagem SQL, além de permitir a criação de Bancos de Dados e a sua gestão, também permite gerar esses insights. Em poucos minutos é possível gerar o material necessário para aquela reuinião urgente. A ideia é apresentar o uso de funções importantes como: SUM, GROUPBY, WHERE, JOIN e OVER em situações cotidianas, onde é possivel explorar o banco de dados de forma prática.
 
 - Nesse case, temos um banco de dados de uma varejista com lojas, região de atuação etc e também temos uma tabela fato para todas as vendas, com informações de marca, produto, receita e diversos dados.
 
-A questão é: **Como usar esses dados e gerar informações sobre o negócio em poucas linhas de código?**
+**A questão é: Como usar esses dados e gerar informações sobre o negócio em poucas linhas de código?**
 
 - Descobrir quanto cada loja representa das vendas e rankear
 Aqui é usada a famosa window function para conseguir fazer a divisão da quantidade vendida de cada loja, pela quantidade total *SUM('Qtd_Vendida')*, como não precisamos de dados de nenhuma outra tabela, o código dessa query é bem direto ao ponto.
