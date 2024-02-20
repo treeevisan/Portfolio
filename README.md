@@ -70,7 +70,7 @@ Aqui é usada a famosa window function para conseguir fazer a divisão da quanti
   
 </p>
 
-Se fosse necessário utilizar essa informação em um dashboard, bastaria criar uma view para termos informação pronta para ser importada em um relatório do Power BI ou Tableau.
+Se fosse necessário utilizar essa informação em um dashboard, seria necessário criar uma view para ter informação pronta para ser importada em um software de BI.
 
 - Descobrir dentro de uma marca de produto o faturamento
 Agora a situação é um pouco mais complicada, pois os dados estão em tabelas diferentes. Vamos utilizar o conceito de banco de dados relacional aqui para conectar tabelas fato e dimensão para criar a query.
