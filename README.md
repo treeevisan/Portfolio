@@ -1,5 +1,5 @@
 # Bem-vindo(a) ao meu Portfólio de Análise e Ciência de Dados!
-[![author](https://img.shields.io/badge/Author-Renan%20Trevisan-brightgreen)](https://www.linkedin.com/in/renantrevisan/) ![version](https://img.shields.io/badge/enthusiast-alpha_version%200.11-%23F12525)
+[![author](https://img.shields.io/badge/Author-Renan%20Trevisan-brightgreen)](https://www.linkedin.com/in/renantrevisan/) ![version](https://img.shields.io/badge/enthusiast-beta_version%201.1-%23F12525)
 
 
 <p align="center">
@@ -37,7 +37,7 @@
 ### **Brazil Highway Traffic Accidents**
  - **ETL e data visualization**, onde foi feito o tratamento dos dados para a apresentação das informações em gráficos.
  - Nos gráficos abaixo foi feito o estudo da média de acidentes no ano versus a média de acidentes no feriado do carnaval.
- - [Acesse o projeto completo](https://www.kaggle.com/code/renantrevisan/br-hway-accidents)
+ - [Acesse o código completo](https://www.kaggle.com/code/renantrevisan/br-hway-accidents)
 
 <p align="center">
   <img alt="Scatter" width="47%" src="https://github.com/treeevisan/Portfolio/assets/152438468/f7772adf-516c-45f3-add5-454d9bd5be87">
@@ -45,14 +45,18 @@
 </p>
 
 
-### **ETL Formula 1 Dataset**
-ETL, do ingles, "Extração, Transformação e Carregamento" é uma parte fundamental para qualquer ação no mundo dos dados. A inspiração para esse projeto se deu quando notei que diversos notebooks que utilizaram esse dataset fizeram uma leitura manual dos dados. 
-- Nesse notebook fiz a leitura e armazenamento dos dados em 1 bloco de código, nos outros são feitos os processos de tratamento dos dados. Como adendo, criei exercicios e um desafio para encorajar os iniciantes em programação a explorarem o dataset. Eles podem compreender a lógica aplicada para ler e armazenar os dados e utilizarem em outros projetos.
+### **Automação Web Scrape** 
+
+O bot foi feito para uma empresa norte americana com o objetivo de raspar os dados de um site que roda HTML com JavaScript. A automação foi construida em Selenium, pois apesar de mais lento em relação ao BeautifulSoup e Scrapy, ele permite criar requests em JavaScript e interagir online com servidor. Além do JavaScript, outro desafio do projeto é lidar com a falta de padronização dos dados no site, para isso foi fundamental o uso dos statements try e except na busca de elementos e validação de dados.
+- [Acesse o código completo](https://github.com/treeevisan/BoiseP)
+
 
 <p align="center">
-  <img alt="Code" width="70%" src="https://github.com/treeevisan/Portfolio/assets/152438468/60f3aa35-683a-459c-abce-79d8330a3a06">
+  <img alt="Code" width="70%" src="https://github.com/treeevisan/Portfolio/assets/152438468/be80f4aa-3583-4028-9d3c-a8849493e9c8">
   
 </p>
+
+Seu output é um arquivo JSON, mas para melhor utilização do usuário final o bot gera um arquivo CSV.
 
 
 ## **SQL**
@@ -85,17 +89,6 @@ Com essa query podemos explorar a receita dos produtos de qualquer marca e ident
 Asism é possivel construir uma estratégia de preço com essas informações associadas a informações de quantidade vendida e estoque, aumentando a margem para itens que vendem bem e ajustando para itens que podem estar encalhados no estoque e precisam ser vendidos.
 
 
-## **Automações** 
-
-O bot foi feito para uma empresa norte americana com o objetivo de raspar os dados de um site que roda HTML com JavaScript. A automação foi construida em Selenium, pois apesar de mais lento em relação ao BeautifulSoup e Scrapy, ele permite criar requests em JavaScript e interagir online com servidor. Além do JavaScript, outro desafio do projeto é lidar com a falta de padronização dos dados no site, para isso foi fundamental o uso dos statements try e except na busca de elementos e validação de dados.
-
-Seu output é um arquivo JSON, mas para melhor utilização do usuário final o bot gera um arquivo CSV 
-
-<p align="center">
-  <img alt="Code" width="70%" src="https://github.com/treeevisan/Portfolio/assets/152438468/be80f4aa-3583-4028-9d3c-a8849493e9c8">
-  
-</p>
-
 
 <!--
 ## **AUTOMAÇÕES** - Em Breve
@@ -118,4 +111,5 @@ Hoje estudo para estar em um ambiente data driven e expandir meus horizontes den
 ## **CONTATO**
 - [Linkedin](https://www.linkedin.com/in/renantrevisan/)
 - [Kaggle](https://www.kaggle.com/renantrevisan)
+- [Repositórios](https://www.github.com/treeevisan?tab=repositories)
   
