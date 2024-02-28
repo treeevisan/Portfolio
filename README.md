@@ -90,12 +90,12 @@ Asism é possivel construir uma estratégia de preço com essas informações as
 O bot foi feito para uma empresa norte americana com o objetivo de raspar os dados de um site que roda HTML com JavaScript. A automação foi construida em Selenium, pois apesar de mais lento em relação ao BeautifulSoup e Scrapy, ele permite criar requests em JavaScript e interagir online com servidor. Além do JavaScript, outro desafio do projeto é lidar com a falta de padronização dos dados no site, para isso foi fundamental o uso dos statements try e except na busca de elementos e validação de dados.
 
 Seu output é um arquivo JSON, mas para melhor utilização do usuário final o bot gera um arquivo CSV 
-<!--
+
 <p align="center">
-  <img alt="Code" width="80%" src="https://github.com/treeevisan/Portfolio/assets/152438468/940da59c-8d1f-45f0-a94e-5b6dbce8a89c">
+  <img alt="Code" width="70%" src="https://github.com/treeevisan/Portfolio/assets/152438468/be80f4aa-3583-4028-9d3c-a8849493e9c8">
   
 </p>
--->
+
 
 <!--
 ## **AUTOMAÇÕES** - Em Breve
