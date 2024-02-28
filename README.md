@@ -85,7 +85,7 @@ Com essa query podemos explorar a receita dos produtos de qualquer marca e ident
 Asism é possivel construir uma estratégia de preço com essas informações associadas a informações de quantidade vendida e estoque, aumentando a margem para itens que vendem bem e ajustando para itens que podem estar encalhados no estoque e precisam ser vendidos.
 
 
-## **AUTOMAÇÕES** 
+## **Automações** 
 
 O bot foi feito para uma empresa norte americana com o objetivo de raspar os dados de um site que roda HTML com JavaScript. A automação foi construida em Selenium, pois apesar de mais lento em relação ao BeautifulSoup e Scrapy, ele permite criar requests em JavaScript e interagir online com servidor. Além do JavaScript, outro desafio do projeto é lidar com a falta de padronização dos dados no site, para isso foi fundamental o uso dos statements try e except na busca de elementos e validação de dados.
 
