@@ -11,6 +11,15 @@
   <a href="https://www.linkedin.com/in/renantrevisan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
+## **SOBRE**
+
+Seja bem-vindo(a)! Me chamo Renan.
+
+Sou engenheiro e trabalho com Business Intelligence desde 2020. Criei soluções de BI e campanhas para a força de vendas com Power BI, Excel e Python. Em ambas oportunidades trabalhei na manutenção e desenvolvimento de relatórios em Power BI e tive contato com o comercial na criação de campanhas de engajamento.
+
+Passei por equipes técnicas de engenharia na Renault e por um time voltado para o comercial no Santander. Hoje quero me envolver com um time focado em dados ou estar em um time de negócios e expandir meus horizontes dentro desse universo. 
+
+
 ## **PROJETOS**
 
 ## **Power BI**
@@ -95,18 +104,6 @@ Asism é possivel construir uma estratégia de preço com essas informações as
 -->
 
 
-
-## **SOBRE**
-
-Seja bem-vindo(a)! Me chamo Renan.
-
-Sou formado em Engenharia de Bioprocessos e Biotecnologia pela UFPR. Ao longo da graduação realizei diversas atividades que me proporcionaram desenvolver habilidades analíticas.
-
-Minha trajetória profissional começou na gigante do automobilismo francês, Renault, onde pude aplicar meu aprendizado de engenharia e as habilidades desenvolvidas na graduação. Na sequência, trabalhei no banco Santander onde tive a oportunidade de conectar minha facilidade com dados e impactar a vida de milhares de pessoas. Ao longo dessa trajetória pratiquei constantemente o inglês e tive bastante contato com espanhol e francês.
-
-Desde a graduação tenho aplicado meus conhecimentos em Excel e Power BI. Além disso, tenho construido projetos relacionados a análise de dados, web scraping. Nesse ambiente dos dados também possuo conhecimento em SQL, domino e pratico principalmente a linguagem Python, com projetos usando bibliotecas como Pandas, Numpy, Seaborn, Matplotlib e Plotly. 
-
-Hoje estudo para estar em um ambiente data driven e expandir meus horizontes dentro desse universo. Quero aproveitar o conhecimento das pessoas mais experientes e levar novso insights.
 
 ## **CONTATO**
 - [Linkedin](https://www.linkedin.com/in/renantrevisan/)
